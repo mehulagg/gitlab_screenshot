@@ -1,0 +1,5 @@
+{
+  "name": "Flutter",
+  "image": "registry.gitlab.com/lakshit1/docker-images:try",
+  "forwardPorts": [3000],
+ }

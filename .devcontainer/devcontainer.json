@@ -1,5 +1,5 @@
 {
   "name": "Gitlab",
-  "image": "registry.gitlab.com/lakshit1/docker-images:master",
+  "image": "registry.gitlab.com/lakshit1/docker-images:latest",
   "forwardPorts": [3000],
  }
